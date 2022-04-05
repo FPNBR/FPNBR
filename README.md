@@ -3,9 +3,14 @@
 <img align="right" width='120px' height='120px' src="https://media-exp1.licdn.com/dms/image/C4E22AQHtcczbI9y-mA/feedshare-shrink_2048_1536/0/1646393961620?e=1649894400&v=beta&t=iZMVc5YjQ4nZXa__p5bbZ5VusgUyWXvhcm1tnzU6uEk">
 
   <a href="https://github.com/FPNBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FPNBR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpnbr&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FPNBR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/FPNBR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpnbr&layout=compact&langs_count=7&theme=midnight-purple" />
+</a>
   
+<br>
 <br>
   
 <div style="display: inline_block">
