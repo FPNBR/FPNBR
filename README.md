@@ -1,6 +1,6 @@
 <h2>Olá, sou o Felipe, seja bem vindo ao meu perfil! 👋</h2>
 
-<img align="right" width='120px' height='120px' src="https://media-exp1.licdn.com/dms/image/C4E22AQHtcczbI9y-mA/feedshare-shrink_2048_1536/0/1646393961620?e=1649894400&v=beta&t=iZMVc5YjQ4nZXa__p5bbZ5VusgUyWXvhcm1tnzU6uEk">
+<img align="right" width='100px' height='120px' src="https://i.imgur.com/ArNFQ.gif">
 
   <a href="https://github.com/FPNBR">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FPNBR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
