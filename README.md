@@ -2,7 +2,13 @@
 
 <img align="right" width='100px' height='120px' src="https://i.imgur.com/ArNFQ.gif">
 
+  <a href="https://github.com/FPNBR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FPNBR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</a>
 
+<a href="https://github.com/FPNBR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPNBR&layout=compact&langs_count=7&theme=midnight-purple" />
+</a>
   
 <br>
 <br>
